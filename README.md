@@ -1,4 +1,4 @@
-# ImageCLEF-MR2026-OpenQA-Visual — Training Code
+# ImageCLEF-MR2026-OpenQA-Visual — Training Code 
 
 Fine-tuning **[Qwen2-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct)** (open-source VLM) on the [ImageCLEF-MR2026-OpenQA-Visual](https://huggingface.co/datasets/SU-FMI-AI/ImageCLEF-MR2026-OpenQA-Visual) dataset.
 
